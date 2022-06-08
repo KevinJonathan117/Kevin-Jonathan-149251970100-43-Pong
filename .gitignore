@@ -8,6 +8,11 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/.vscode/
+/Assets/
+/Packages/
+/ProjectSettings/
+/UserSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -56,10 +61,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
-.vscode/
-Assets/
-Packages/
-ProjectSettings/
-UserSettings/
 
