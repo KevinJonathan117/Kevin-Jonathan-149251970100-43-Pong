@@ -16,6 +16,7 @@ public class PaddleController : MonoBehaviour
         {
             speed = 5;
         }
+        Debug.Log("Speed: " + speed);
     }
 
     // Update is called once per frame
