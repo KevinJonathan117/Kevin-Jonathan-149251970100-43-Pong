@@ -11,6 +11,11 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void OpenCredit()
+    {
+        SceneManager.LoadScene("Credit");
+    }
+
     public void ExitGame()
     {
         Application.Quit();
